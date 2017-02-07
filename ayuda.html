@@ -1,0 +1,51 @@
+﻿<html>
+<head>
+	<title>Ayudas html</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<link rel="stylesheet" type="text/css" href=".\CSS\colores.css"/>
+	<link rel="stylesheet" type="text/css" href=".\CSS\ayuda.css"/>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script type="text/javascript" src=".\Javascript\Javascript - Metodos de ayuda.js"></script>
+	<script type="text/javascript" src=".\Javascript\iconos.js"></script>
+	<script type="text/javascript" src=".\Javascript\ayuda.js"></script>
+</head>
+<body>
+	<h1 class="fondoVerde_Transparente colorNegro_Transparente" style="margin-top: 0px;">Guiones</h1>
+	
+	<h2>Quitar guiones</h2>
+	<input id="textoGuiones" type="text" placeholder="Con-guiones"/><button id="quitarGuiones">Sin guiones</button>
+	<p>
+		Texto: <span id="sinGuion"></span>
+	</p>
+	
+	<h2>Añadir guiones</h2>
+	<input id="textoSinGuiones" type="text" placeholder="Sin guiones"/><button id="ponerGuiones">Con guiones</button>
+	<p>
+		Texto: <span id="conGuion"></span>
+	</p>
+	
+	<h1>Abrir web</h1>
+		<input id="textoAbrirWebs" type="text" placeholder="Búsqueda"/><button id="abrirWebs">Abrir webs</button>
+	
+	<h1>HTML</h1>
+		<button id="traducirHtml">Pegar &#60;html&#62;</button>
+		<div id="ponerHTML" class="bordeNegro_Transparente" style="border-top: dashed 10px rgba(0,0,0,0.5) !important;">
+			• • •
+		</div>
+
+	<h1>Htw Spain imagenes</h1>
+
+	<p>
+		Grande -> pequeño<br/>
+		80x80 -> 50x50<br/>
+		Copia los title al alt (alt y title iguales)
+	</p>
+	<p>
+		Pon los números de las imágenes<br/>
+		separados por espacios y sin ceros
+	<p>
+	<button id="addImgHtwSpain">(📥) añadir imagenes</button>
+	<input id="addImgNum" type="text" placeholder="1 2 3 4 etc."/>
+</body>
+</html>

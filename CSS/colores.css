@@ -1,0 +1,108 @@
+﻿.colorNegro{		color: rgb(0,0,0) !important; }
+.colorGris{			color: rgb(128,128,128) !important; }
+.colorHumo{			color: rgb(245,245,245) !important; }
+.colorBlanco{		color: rgb(255,255,255) !important; }
+
+.colorRojo{			color: rgb(255,0,0) !important; }
+.colorNaranja{		color: rgb(255,128,0) !important; }
+.colorAmarillo{		color: rgb(255,255,0) !important; }
+.colorFucsia{		color: rgb(255,0,128) !important; }
+.colorRosa{			color: rgb(255,0,255) !important; }
+
+.colorVerde{		color: rgb(0,255,0) !important; }
+.colorLima{			color: rgb(128,255,0) !important; }
+
+.colorAzul{			color: rgb(0,0,255) !important; }
+.colorAzul_Claro{	color: rgb(0,255,255) !important; }
+.colorMorado{		color: rgb(128,0,255) !important; }
+.colorTurquesa{		color: rgb(0,200,200) !important; }
+
+/*
+	Bordes
+*/
+.bordeNegro{		border: dashed 2px rgb(0,0,0) !important; }
+.bordeGris{			border: dashed 2px rgb(128,128,128) !important; }
+.bordeHumo{			border: dashed 2px rgb(245,245,245) !important; }
+.bordeBlanco{		border: dashed 2px rgb(255,255,255) !important; }
+
+.bordeRojo{			border: dashed 2px rgb(255,0,0) !important; }
+.bordeNaranja{		border: dashed 2px rgb(255,128,0) !important; }
+.bordeAmarillo{		border: dashed 2px rgb(255,255,0) !important; }
+.bordeFucsia{		border: dashed 2px rgb(255,0,128) !important; }
+.bordeRosa{			border: dashed 2px rgb(255,0,255) !important; }
+
+.bordeVerde{		border: dashed 2px rgb(0,255,0) !important; }
+.bordeLima{			border: dashed 2px rgb(128,255,0) !important; }
+
+.bordeAzul{			border: dashed 2px rgb(0,0,255) !important; }
+.bordeAzul_Claro{	border: dashed 2px rgb(0,255,255) !important; }
+.bordeMorado{		border: dashed 2px rgb(128,0,255) !important; }
+.bordeTurquesa{		border: dashed 2px rgb(0,200,200) !important; }
+
+/*
+	Fondos
+*/
+
+.fondoNegro{		background-color: rgb(0,0,0) !important; }
+.fondoGris{			background-color: rgb(128,128,128) !important; }
+.fondoHumo{			background-color: rgb(245,245,245) !important; }
+.fondoBlanco{		background-color: rgb(255,255,255) !important; }
+
+.fondoRojo{			background-color: rgb(255,0,0) !important; }
+.fondoNaranja{		background-color: rgb(255,128,0) !important; }
+.fondoAmarillo{		background-color: rgb(255,255,0) !important; }
+.fondoFucsia{		background-color: rgb(255,0,128) !important; }
+.fondoRosa{			background-color: rgb(255,0,255) !important; }
+
+.fondoVerde{		background-color: rgb(0,255,0) !important; }
+.fondoLima{			background-color: rgb(128,255,0) !important; }
+
+.fondoAzul{			background-color: rgb(0,0,255) !important; }
+.fondoAzul_Claro{	background-color: rgb(0,255,255) !important; }
+.fondoMorado{		background-color: rgb(128,0,255) !important; }
+.fondoTurquesa{		background-color: rgb(0,200,200) !important; }
+
+/*
+	Bordes Transparentes
+*/
+.bordeNegro_Transparente{		border: dashed 2px rgba(0,0,0,0.5) !important; }
+.bordeGris_Transparente{		border: dashed 2px rgba(128,128,128,0.5) !important; }
+.bordeHumo_Transparente{		border: dashed 2px rgba(245,245,245,0.5) !important; }
+.bordeBlanco_Transparente{		border: dashed 2px rgba(255,255,255,0.5) !important; }
+
+.bordeRojo_Transparente{		border: dashed 2px rgba(255,0,0,0.5) !important; }
+.bordeNaranja_Transparente{		border: dashed 2px rgba(255,128,0,0.5) !important; }
+.bordeAmarillo_Transparente{	border: dashed 2px rgba(255,255,0,0.5) !important; }
+.bordeFucsia_Transparente{		border: dashed 2px rgba(255,0,128,0.5) !important; }
+.bordeRosa_Transparente{		border: dashed 2px rgba(255,0,255,0.5) !important; }
+
+.bordeVerde_Transparente{		border: dashed 2px rgba(0,255,0,0.5) !important; }
+.bordeLima_Transparente{		border: dashed 2px rgba(128,255,0,0.5) !important; }
+
+.bordeAzul_Transparente{		border: dashed 2px rgba(0,0,255,0.5) !important; }
+.bordeAzul_Claro_Transparente{	border: dashed 2px rgba(0,255,255,0.5) !important; }
+.bordeMorado_Transparente{		border: dashed 2px rgba(128,0,255,0.5) !important; }
+.bordeTurquesa_Transparente{	border: dashed 2px rgba(0,200,200,0.5) !important; }
+
+/*
+	Fondos
+*/
+
+.fondoNegro_Transparente{		background-color: rgba(0,0,0,0.5) !important; }
+.fondoGris_Transparente{		background-color: rgba(128,128,128,0.5) !important; }
+.fondoHumo_Transparente{		background-color: rgba(245,245,245,0.5) !important; }
+.fondoBlanco_Transparente{		background-color: rgba(255,255,255,0.5) !important; }
+
+.fondoRojo_Transparente{		background-color: rgba(255,0,0,0.5) !important; }
+.fondoNaranja_Transparente{		background-color: rgba(255,128,0,0.5) !important; }
+.fondoAmarillo_Transparente{	background-color: rgba(255,255,0,0.5) !important; }
+.fondoFucsia_Transparente{		background-color: rgba(255,0,128,0.5) !important; }
+.fondoRosa_Transparente{		background-color: rgba(255,0,255,0.5) !important; }
+
+.fondoVerde_Transparente{		background-color: rgba(0,255,0,0.5) !important; }
+.fondoLima_Transparente{		background-color: rgba(128,255,0,0.5) !important; }
+
+.fondoAzul_Transparente{		background-color: rgba(0,0,255,0.5) !important; }
+.fondoAzul_Claro_Transparente{	background-color: rgba(0,255,255,0.5) !important; }
+.fondoMorado_Transparente{		background-color: rgba(128,0,255,0.5) !important; }
+.fondoTurquesa_Transparente{	background-color: rgba(0,200,200,0.5) !important; }
